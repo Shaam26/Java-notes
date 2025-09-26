@@ -8,9 +8,16 @@
       <sourceFolder url="file://$MODULE_DIR$/4 Operators If-else and Number System/Challenges" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/4 Operators If-else and Number System/Lecture" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Challenges/1 Patterns" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Challenges/10 Compound Interest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Challenges/11 Fahrenheit to celsius" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Challenges/2 Subscribe" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Challenges/3 Sum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Challenges/4 Swap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Challenges/5 arithmetic  operators" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Challenges/6 Float" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Challenges/7 Perimeter of Rectangle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Challenges/8 Area of Triangle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Challenges/9 Simple  Interest" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
