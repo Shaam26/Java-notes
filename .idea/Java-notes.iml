@@ -18,6 +18,14 @@
       <sourceFolder url="file://$MODULE_DIR$/Challenges/7 Perimeter of Rectangle" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Challenges/8 Area of Triangle" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Challenges/9 Simple  Interest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5 While loop,Methods, and Arrays/Lecture" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Challenges/12 Odd or Even" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Challenges/13 Positive Negative zero" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Challenges/14 Greatest Number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Challenges/15 Leap Year" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Challenges/16 Marks grades" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Challenges/17 Age Calculator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Challenges/18 bitwise" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
