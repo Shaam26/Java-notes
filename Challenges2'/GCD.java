@@ -3,10 +3,10 @@ import java.util.Scanner;
 class GCD {
      public static void main(String[] args) {
          Scanner input = new Scanner(System.in);
-         System.out.println("Welcome to GCD\n");
+         System.out.println("welcome to GCD\n");
          System.out.println("please enter your number: ");
          int first = input.nextInt();
-         System.out.println("please enter your number: ");
+         System.out.println("please enter second number: ");
          int second = input.nextInt();
          int gcd = gcd(first , second);
          System.out.println("GCD of the number is: "+gcd);
