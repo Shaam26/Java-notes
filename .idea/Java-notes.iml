@@ -27,6 +27,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Challenges/17 Age Calculator" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Challenges/18 bitwise" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Challenges2'" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Challenges/ArrayChallenges" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
