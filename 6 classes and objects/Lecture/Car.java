@@ -1,4 +1,4 @@
-public class Car {
+public  class Car {
 
     static int noOfCarsSold;
    int noOfWheels;
@@ -62,7 +62,7 @@ public class Car {
    }
    public float getCurrentFuelLevel(){
        return currentFuelInLiters;
-   }
 
 
+    }
 }
