@@ -32,6 +32,7 @@
       <sourceFolder url="file://$MODULE_DIR$/7  Control Statements , math and Strings/Lecture" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/8 Encapsulation and Inheritance/Lecture" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/9 Abstraction And Polymorphism/Lecture" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10 Exception And File Handling/Lecture" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
