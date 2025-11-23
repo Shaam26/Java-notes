@@ -35,6 +35,7 @@
       <sourceFolder url="file://$MODULE_DIR$/10 Exception And File Handling/Lecture" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/11 Collection and  Generics/Lecture" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/12 Multithreading and Executor/Lecture" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13 Functional Programing/Lecture" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
